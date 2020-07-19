@@ -1,0 +1,13 @@
+C:\Users\Kamil Kossakowski\Desktop\Praca\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\studia\cospotszebnego\studja\studia2\Praca magisterska\Praca magisterska\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\studia\cospotszebnego\studja\studia2\Praca magisterska\Praca magisterska\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\studia\cospotszebnego\studja\studia2\Praca magisterska\Praca magisterska\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\studia\cospotszebnego\studja\studia2\Praca magisterska\Praca magisterska\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\studia\cospotszebnego\studja\studia2\Praca magisterska\Praca magisterska\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\studia\cospotszebnego\studja\studia2\Praca magisterska\Praca magisterska\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\studia\cospotszebnego\studja\studia2\Praca magisterska\Praca_magisterska_program\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\studia\cospotszebnego\studja\studia2\Praca magisterska\Praca_magisterska_program\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\studia\cospotszebnego\studja\studia2\Praca magisterska\Praca_magisterska_program\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\studia\cospotszebnego\studja\studia2\Praca magisterska\Praca_magisterska_program\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\studia\cospotszebnego\studja\studia2\Praca magisterska\Praca_magisterska_program\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\studia\cospotszebnego\studja\studia2\Praca magisterska\Praca_magisterska_program\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
